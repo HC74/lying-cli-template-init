@@ -1,20 +1,12 @@
 <template>
   <View class="lying_app_card">
     首页
-    <View>
-      <input class="weui_input" auto-focus placeholder="将会获取焦点" />
-    </View>
   </View>
 </template>
 
 <script setup>
 import {ref} from 'vue'
 import {getRandMusic, postRandMusic} from "@/api/api";
-let lying_app_card = ref(null)
-let weui_input = ref(null)
-console.log("debug...")
-console.log(lying_app_card)
-console.log(weui_input.value)
 const getRandMusicFn = async () => {
   //入参示例
   const params = {
