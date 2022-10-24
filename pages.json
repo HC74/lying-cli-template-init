@@ -4,6 +4,21 @@
       "path": "pages/index/index",
       "style": {
         "navigationBarTitleText": "首页",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/index/vueWebsite",
+      "style": {
+        "navigationBarTitleText": "vue官网",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/index/viteWebsite",
+      "style": {
+        "navigationBarTitleText": "vite官网",
         "navigationBarBackgroundColor": "#ffffff",
         "navigationStyle": "custom"
       }

@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-uni.showModal()
+
 </script>
 
 <style lang="scss" scoped>

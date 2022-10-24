@@ -2,9 +2,17 @@
 QQ:893841819(一世長安)   
 QQ:1792096481(每天至少八杯水ด้้้้)  
 QQ群1:511959060  
-QQ群2:499235384
+QQ群2:499235384  
 版权归:一世長安与每天至少八杯水ด้้้้共有  
 可商用可二开但代码内需注明出处  
+
+```
+gitee地址：https://gitee.com/YiShi_ChangAn/lying-demo
+```
+
+```
+github地址：https://github.com/HC74/lying-cli-template-init
+```
 
 项目结构:
 

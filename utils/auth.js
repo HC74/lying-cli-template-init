@@ -1,4 +1,4 @@
-import {authorizationKey} from "../constant/config";
+import {authorizationKey} from "@/constant/config";
 
 /**
  * authorizationKey:token对应的请求头key

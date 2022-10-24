@@ -68,6 +68,6 @@
         "devServer" : {
             "https" : false
         },
-        "title" : "众包系统"
+        "title" : "lying-demo"
     }
 }

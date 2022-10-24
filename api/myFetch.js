@@ -1,6 +1,6 @@
 import Request from 'luch-request'
-import {getBaseUrl} from "../constant/config";
-import {removeAuthorization} from "../utils/auth";
+import {getBaseUrl} from "@/constant/config";
+import {removeAuthorization} from "@/utils/auth";
 // import qs from 'qs'
 
 const BASE_API = getBaseUrl()

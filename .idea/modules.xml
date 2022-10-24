@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lying-cli-template-init.iml" filepath="$PROJECT_DIR$/.idea/lying-cli-template-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lying-demo.iml" filepath="$PROJECT_DIR$/.idea/lying-demo.iml" />
     </modules>
   </component>
 </project>
